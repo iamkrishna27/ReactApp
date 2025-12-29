@@ -2,9 +2,6 @@
 
 A fully functional e-commerce frontend application built with **React**, designed to replicate the core shopping experience of Amazon. This project demonstrates modern web development practices including global state management, client-side routing, and custom hooks.
 
-![Amazon Clone Banner](https://via.placeholder.com/1000x300?text=Amazon+Clone+Project+Preview) 
-*(Replace this link with a screenshot of your actual project)*
-
 ## 🚀 Features
 
 * **Product Browsing:** View a list of products with dynamic data fetching.
